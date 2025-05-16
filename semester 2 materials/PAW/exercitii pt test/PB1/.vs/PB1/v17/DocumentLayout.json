@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\pb1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\pb1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\pb1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\pb1\\entities\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6C17C-E891-4881-AB03-05A679FCC111}|PB1.csproj|solutionrelative:entities\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Restaurant.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Restaurant.cs",
+              "RelativeToolTip": "Restaurant.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:53:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Restaurant.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Restaurant.cs [Design]",
+              "RelativeToolTip": "Restaurant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:58:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\AddForm.cs",
+              "RelativeToolTip": "AddForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:03:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\AddForm.cs [Design]",
+              "RelativeToolTip": "AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:55:27.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Entities\\Waiter.cs",
+              "RelativeDocumentMoniker": "Entities\\Waiter.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\PB1\\Entities\\Waiter.cs",
+              "RelativeToolTip": "Entities\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:10:18.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.exe
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.deps.json
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.runtimeconfig.json
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.Form1.resources
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\refint\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\ref\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.exe
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.deps.json
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.runtimeconfig.json
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.Form1.resources
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\refint\WinFormsApp11.dll
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\WinFormsApp11-2\WinFormsApp11\obj\Debug\net8.0-windows\ref\WinFormsApp11.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\refint\WinFormsApp11.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.exe
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.deps.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.runtimeconfig.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\bin\Debug\net8.0-windows\WinFormsApp11.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.Form1.resources
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfo.cs
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.genruntimeconfig.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex4\WinFormsApp11\obj\Debug\net8.0-windows\ref\WinFormsApp11.dll

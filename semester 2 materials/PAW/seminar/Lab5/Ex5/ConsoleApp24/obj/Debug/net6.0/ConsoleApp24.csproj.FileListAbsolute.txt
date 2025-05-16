@@ -1,0 +1,28 @@
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.exe
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.deps.json
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.runtimeconfig.json
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.dll
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.pdb
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.dll
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\refint\ConsoleApp24.dll
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.pdb
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ref\ConsoleApp24.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.exe
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.deps.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.runtimeconfig.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfo.cs
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\refint\ConsoleApp24.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.genruntimeconfig.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab5\Ex5\ConsoleApp24\obj\Debug\net6.0\ref\ConsoleApp24.dll

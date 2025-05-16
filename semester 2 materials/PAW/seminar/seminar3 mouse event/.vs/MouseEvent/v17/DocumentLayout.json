@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|c:\\users\\lipiu\\source\\repos\\mouseevent\\mouseevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|solutionrelative:mouseevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|c:\\users\\lipiu\\source\\repos\\mouseevent\\mouseevent\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|solutionrelative:mouseevent\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|c:\\users\\lipiu\\source\\repos\\mouseevent\\mouseevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD72CD40-C0EC-48A9-9DAB-2D1114EEB84F}|MouseEvent\\MouseEvent.csproj|solutionrelative:mouseevent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Program.cs",
+              "RelativeDocumentMoniker": "MouseEvent\\Program.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Program.cs",
+              "RelativeToolTip": "MouseEvent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:12:00.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MouseEvent\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Form1.Designer.cs",
+              "RelativeToolTip": "MouseEvent\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:11:56.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Form1.cs",
+              "RelativeDocumentMoniker": "MouseEvent\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\source\\repos\\MouseEvent\\MouseEvent\\Form1.cs [Design]",
+              "RelativeToolTip": "MouseEvent\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:08:01.951Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

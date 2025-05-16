@@ -1,0 +1,48 @@
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.exe
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.deps.json
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.runtimeconfig.json
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.dll
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.pdb
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.Form1.resources
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.dll
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\refint\MouseEvents.dll
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.pdb
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\ref\MouseEvents.dll
+D:\WAP\Lab4\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.exe
+D:\WAP\Lab4\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.deps.json
+D:\WAP\Lab4\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.runtimeconfig.json
+D:\WAP\Lab4\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.dll
+D:\WAP\Lab4\MouseEvents\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.pdb
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.Form1.resources
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.GenerateResource.cache
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfoInputs.cache
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfo.cs
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.CoreCompileInputs.cache
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.dll
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\refint\MouseEvents.dll
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.pdb
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.genruntimeconfig.cache
+D:\WAP\Lab4\MouseEvents\MouseEvents\obj\Debug\net8.0-windows\ref\MouseEvents.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.exe
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.deps.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.runtimeconfig.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\bin\Debug\net8.0-windows\MouseEvents.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.Form1.resources
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.GenerateResource.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfoInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.AssemblyInfo.cs
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.csproj.CoreCompileInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\refint\MouseEvents.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\MouseEvents.genruntimeconfig.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\seminar\Lab4\Ex1\MouseEvents\obj\Debug\net8.0-windows\ref\MouseEvents.dll

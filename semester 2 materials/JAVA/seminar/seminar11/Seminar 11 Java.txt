@@ -1,0 +1,21 @@
+Seminar 11 Java
+
+UDP - User Datagram Protocol.
+
+A network- two or more computers that are connected.
+
+Networks are identified through IP (Internet Protocol) and a port (a number assigned to an application).
+
+NIC - Network Interface Card/Controller. Used  to have a network connection. Its a chip on the motherboard -> placa de retea.
+
+NIC with wireless connection -> has an antena that sends and receives packets through waves.
+
+DHCP Lease - Dynamic Host Configuration Protocol -> Leases IPs to the devices connected.
+
+First 24 bits are the mask of the address -> won't change based on the host. The rest of the digits are for each individual host.
+
+We pass to the wireless acces point (in the router) and the router passes to a smaller public acces point provided by the internet provider -> that passes it to the server.
+
+In terms of software a Socket is a corresponding unit of a port.
+
+Every computer has a localhost address, it always leads back to you. - 127....

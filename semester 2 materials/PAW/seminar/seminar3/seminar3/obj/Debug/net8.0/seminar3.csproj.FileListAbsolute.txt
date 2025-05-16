@@ -1,0 +1,14 @@
+C:\Users\Lipiu\source\repos\seminar3\seminar3\bin\Debug\net8.0\seminar3.exe
+C:\Users\Lipiu\source\repos\seminar3\seminar3\bin\Debug\net8.0\seminar3.deps.json
+C:\Users\Lipiu\source\repos\seminar3\seminar3\bin\Debug\net8.0\seminar3.runtimeconfig.json
+C:\Users\Lipiu\source\repos\seminar3\seminar3\bin\Debug\net8.0\seminar3.dll
+C:\Users\Lipiu\source\repos\seminar3\seminar3\bin\Debug\net8.0\seminar3.pdb
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.AssemblyInfoInputs.cache
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.AssemblyInfo.cs
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.csproj.CoreCompileInputs.cache
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.dll
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\refint\seminar3.dll
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.pdb
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\seminar3.genruntimeconfig.cache
+C:\Users\Lipiu\source\repos\seminar3\seminar3\obj\Debug\net8.0\ref\seminar3.dll

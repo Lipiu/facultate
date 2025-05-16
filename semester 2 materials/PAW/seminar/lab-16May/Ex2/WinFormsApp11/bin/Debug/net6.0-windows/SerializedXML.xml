@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfParticipant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Participant>
+    <LastName>fdsfd</LastName>
+    <FirstName>fsdf</FirstName>
+    <BirthDate>2025-03-26T19:44:30.9619714+02:00</BirthDate>
+  </Participant>
+  <Participant>
+    <LastName>fdsfd</LastName>
+    <FirstName>fsdf</FirstName>
+    <BirthDate>2025-03-26T19:44:30.9619714+02:00</BirthDate>
+  </Participant>
+  <Participant>
+    <LastName>fdsfd</LastName>
+    <FirstName>fsdf</FirstName>
+    <BirthDate>2025-03-26T19:44:30.9619714+02:00</BirthDate>
+  </Participant>
+  <Participant>
+    <LastName>fdsfd</LastName>
+    <FirstName>fsdf</FirstName>
+    <BirthDate>2025-03-26T19:44:30.9619714+02:00</BirthDate>
+  </Participant>
+  <Participant>
+    <LastName>fdsfd</LastName>
+    <FirstName>fsdfds</FirstName>
+    <BirthDate>2025-03-26T19:44:30.9619714+02:00</BirthDate>
+  </Participant>
+</ArrayOfParticipant>

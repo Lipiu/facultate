@@ -1,0 +1,16 @@
+$Recycle.Bin
+$WinREAgent
+Documents and Settings
+DRIVERS
+java facultate
+Microsoft
+MinGW
+msys64
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows

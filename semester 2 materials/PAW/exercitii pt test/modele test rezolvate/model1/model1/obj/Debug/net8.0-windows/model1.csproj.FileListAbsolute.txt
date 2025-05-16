@@ -1,0 +1,17 @@
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\bin\Debug\net8.0-windows\model1.exe
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\bin\Debug\net8.0-windows\model1.deps.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\bin\Debug\net8.0-windows\model1.runtimeconfig.json
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\bin\Debug\net8.0-windows\model1.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\bin\Debug\net8.0-windows\model1.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.Form1.resources
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.Form2.resources
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.csproj.GenerateResource.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.AssemblyInfoInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.AssemblyInfo.cs
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.csproj.CoreCompileInputs.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\refint\model1.dll
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.pdb
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\model1.genruntimeconfig.cache
+C:\Users\Lipiu\Desktop\semester 2 materials\PAW\exercitii pt test\modele test rezolvate\model1\model1\obj\Debug\net8.0-windows\ref\model1.dll

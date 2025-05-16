@@ -1,0 +1,6 @@
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.Form1.resources
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.csproj.GenerateResource.cache
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.AssemblyInfoInputs.cache
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.AssemblyInfo.cs
+C:\Users\Lipiu\source\repos\MouseEvent\MouseEvent\obj\Debug\net8.0-windows\MouseEvent.csproj.CoreCompileInputs.cache

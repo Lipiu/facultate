@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgayBx5JaDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\seminar\\Lab5\\Ex2\\WinFormsApp11\\WinFormsApp11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lipiu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Lipiu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Lipiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Lipiu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

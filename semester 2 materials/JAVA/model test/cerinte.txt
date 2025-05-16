@@ -1,0 +1,50 @@
+1. Create an interface called Buyable in the "ro.ase.acs.contracts" package
+	Add the following abstract method to this interface
+		float getPrice()
+		
+2. Create an abstract class called PublicTransportTicket in the "ro.ase.acs.models" package
+	with the following protected fields:
+	- departure (string)
+	- destination (string)
+	- distance (integer)
+	- add the following constructor to the class PublicTransportTicket(departure, destination, distance)
+	
+3. Inherit this class from the Buyable interface and override the abstract method getPrice().
+	The method will return 5 for now
+	Add the following abstract method to the PublicTransportTicket class:
+		public float getDiscount()
+	
+4. Add a class called TrainTicket to the "ro.ase.acs.models" package
+	the class will inherit PublicTransportTicket and will have an additional private field called TrainType
+	This will be an enum created in the models package with the following possible values:
+	REGIO, INTERREGIO, INTERCITY
+	Add a constructor with 4 parameters (departure, destination, distance, trainType) to the class
+	
+5. Override the getDiscount method to return the total discount
+	The method will return 0.5 if the TrainType is REGIO,
+	0.25 if the TrainType is INTERREGIO and 0 if it is INTERCITY
+
+6. Add to ability to the class TrainTicket to create deep copies (to be cloned)
+	and add getters for departure, destination, distance and trainType
+	Override the getPrice() method to return the prince using the following formula:
+		price = the price returned by the method from PublicTransportTicket x distance x discount
+
+7. Override the toString() method for the TrainTicket class
+	The method will display a line with the following details:
+	"> Bucuresti Iasi 500"
+	where "Bucuresti" is the departure, "Iasi" the destination and "500" the distance
+	
+8. Use a Java Collection (defined as a static attribute), at your choice, 
+	that will allow you to save all the distinct issued tickets
+ Add the following public static methods to the TrainTicket.java class:
+ 	- void issueTicket(TrainTicket) -> this will add a new element in the collection
+ 	- Collection<TrainTicket> getTickets() -> this will return the tickets issued so far
+ Two tickets are considered identical if they have the same departure and the same destination
+
+9. Initialize the lambdaOperation field from the Utils.java class 
+with a lambda expression that computes in a secondary thread the product of the values from the array field
+E.g. if the array i { 1, 2, 3 }, the function should return 6
+
+10. Add the following static method: Stream<TrainTicket> getLongDistanceTrains(List<TrainTicket> trains, String departure) 
+in the Utils.java in order to return a Stream with all the DISTINCT trains that depart
+from the specified city and travel for a distance grater than 100 kilometers

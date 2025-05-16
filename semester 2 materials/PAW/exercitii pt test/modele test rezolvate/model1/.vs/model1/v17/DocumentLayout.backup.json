@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\modele test rezolvate\\model1\\model1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\modele test rezolvate\\model1\\model1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\modele test rezolvate\\model1\\model1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\modele test rezolvate\\model1\\model1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|c:\\users\\lipiu\\desktop\\semester 2 materials\\paw\\exercitii pt test\\modele test rezolvate\\model1\\model1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{289325A2-8697-472D-BCDE-EB1C310258E9}|model1\\model1.csproj|solutionrelative:model1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "model1\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Restaurant.cs",
+              "RelativeToolTip": "model1\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:52:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Program.cs",
+              "RelativeDocumentMoniker": "model1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Program.cs",
+              "RelativeToolTip": "model1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:52:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form1.cs",
+              "RelativeDocumentMoniker": "model1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form1.cs",
+              "RelativeToolTip": "model1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:36:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form2.cs",
+              "RelativeDocumentMoniker": "model1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form2.cs",
+              "RelativeToolTip": "model1\\Form2.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:19:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form2.cs",
+              "RelativeDocumentMoniker": "model1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form2.cs [Design]",
+              "RelativeToolTip": "model1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:03:33.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form1.cs",
+              "RelativeDocumentMoniker": "model1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lipiu\\Desktop\\semester 2 materials\\PAW\\exercitii pt test\\modele test rezolvate\\model1\\model1\\Form1.cs [Design]",
+              "RelativeToolTip": "model1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:49:06.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
