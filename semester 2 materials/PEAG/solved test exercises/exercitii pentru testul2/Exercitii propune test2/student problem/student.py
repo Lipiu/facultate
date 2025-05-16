@@ -95,7 +95,7 @@ def crossover(parent1, parent2):
     else:
         return parent1
 
-def mutate(individual, mutation_rate=0.1):
+def mutate(individual, mutation_rate=0.8):
     a, b, c = individual
     if random.random() < mutation_rate:
         a = max(0, a + random.choice([-1, 1]))
