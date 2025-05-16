@@ -137,7 +137,7 @@ def genetic_algorithm(pop_size, generations):
 
 if __name__ == "__main__":
     best_solution, best_fit = genetic_algorithm(50, 50)
-    print("Best solution found: ", best_solution)
+    print("\nBest solution found: ", best_solution)
     print("Total cost: ", total_cost(*best_solution))
     print("Average number of credits: ", calculate_average_credit_points(*best_solution))
     print("Average number of study hours: ", calculate_average_study_hours(*best_solution))
