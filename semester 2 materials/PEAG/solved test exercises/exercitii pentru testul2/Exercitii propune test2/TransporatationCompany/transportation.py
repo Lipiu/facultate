@@ -20,8 +20,6 @@
 import numpy as np
 import random
 
-import random
-
 # Constants
 BUDGET = 5000
 prices = [100, 60, 50]
@@ -133,6 +131,7 @@ def genetic_algorithm(pop_size=100, generations=100):
 
 
 if __name__ == "__main__":
+    #Te rog sa nu ma judeci Mihnea!
     best_solution, best_fit = genetic_algorithm()
     print("Best solution found:", best_solution)
     print("Fitness (average autonomy):", best_fit)
