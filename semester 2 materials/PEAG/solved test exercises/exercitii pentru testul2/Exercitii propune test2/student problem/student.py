@@ -95,7 +95,7 @@ def crossover(parent1, parent2):
     else:
         return parent1
 
-def mutate(individual, mutation_rate=0.8):
+def mutate(individual, mutation_rate=0.7):
     a, b, c = individual
     if random.random() < mutation_rate:
         a = max(0, a + random.choice([-1, 1]))
@@ -136,7 +136,7 @@ def genetic_algorithm(pop_size, generations):
 
 
 if __name__ == "__main__":
-    best_solution, best_fit = genetic_algorithm(100, 50)
+    best_solution, best_fit = genetic_algorithm(50, 50)
     print("Best solution found: ", best_solution)
     print("Total cost: ", total_cost(*best_solution))
     print("Average number of credits: ", calculate_average_credit_points(*best_solution))
