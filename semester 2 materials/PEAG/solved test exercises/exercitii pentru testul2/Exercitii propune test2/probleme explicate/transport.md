@@ -17,7 +17,7 @@
     * Craiova - Ploiesti = 60
     * Craiova - Pitesti = 70
     * Craiova - Cluj = 100
-
+##
 **2.** `Representation in solution space`
 * We define the decision variables as the tons transported along each route, representing the solution as a vector of 6 elements:\
 x = [xBP, xBPt, xBC, xCP, xCPt, xCC] where:
@@ -29,7 +29,7 @@ x = [xBP, xBPt, xBC, xCP, xCPt, xCC] where:
     * xCC = tons from Craiova to Cluj
 
 Each xi is a non-negative integer that represents the tonnage allocated for each route.
-
+##
 **3.** `Constraints`
 * Production constraints
     * For Bucuresti
@@ -45,42 +45,42 @@ Each xi is a non-negative integer that represents the tonnage allocated for each
         * xBC + xCC <= 80 (tons/week)
 * Non-negativity
     * xi > 0 for all i
-
-**5.** `Solution space`
+##
+**4.** `Solution space`
 * The solution space is a 6 dimensional discrete domain subject to the production and demand equality/inequality constraints.
-
-**6.** `Fitness function`
+##
+**5.** `Fitness function`
 * **Objective:** minimize the total transportation cost
 * Transportation cost is computed as:
     * Total_cost = 50xBP + 70xBPt + 90xBC + 60xCP + 70xCPt + 100xCC
 * For a feasbile solution, the fitness value is the total cost.
 * Penalty
     * For each constraint violation we apply a penalty
-
-**7.** `Population model`
+##
+**6.** `Population model`
 * Generational model with fixed-size population
 * Each individual represents a complete assignment of shipments
-
-**8.** `Parent selection`
+##
+**7.** `Parent selection`
 * Simple roulette selection
 * We can also use tournament selection for simplicity
-
-**9.** `Crossover operator`
+##
+**8.** `Crossover operator`
 * Uniform crossover: randomly swap elements between two parent vectors with a fixed crossover probability (for example: 0.7)
 
 * After crossover it is important to re-check individuals to better satisfy the constraints.
-
-**10.** `Mutation operator`
+##
+**9.** `Mutation operator`
 * Mutation: randomly adjust one or more components xi by a small integer (+/- 1) with a mutation probability (eg: 0.2)
 
 * Repair/Constarint check: After mutation, recheck that the solution is as close as possible to meeting the warehouse demands and not exceeding factory capacities
-
-**11.** `Survivor selection`
+##
+**10.** `Survivor selection`
 * Elitism to ensure the best solution (lowest cost) is kept in the next generation
 
 * The rest of the next generation can be filled with offspring selected via generational replacement
-
-**12.** `Stopping condition`
+##
+**11.** `Stopping condition`
 * Fixed number of generations
 
 * Stop if the best fitness does not improve after n generations.
