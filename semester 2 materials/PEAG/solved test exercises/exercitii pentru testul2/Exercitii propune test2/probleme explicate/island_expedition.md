@@ -66,7 +66,7 @@ D(i,j) = distance between islands i and j.
 ##
 **11.** `Stop condition`
 * We stop the algorithm if:
-    * We reach the limited number of steps.
+    * We reach the limited number of steps
     * If fitness is the same for all generations
     * When optimum value is reached
     * If over the last k generations (given parameter) the fitness hasn't changed
