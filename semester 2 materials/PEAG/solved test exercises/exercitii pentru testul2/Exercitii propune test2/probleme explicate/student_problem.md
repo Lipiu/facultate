@@ -1,4 +1,4 @@
-## Student problem
+## Student problem (problem 3)
 
 **1.** `Inputs of the student problem`
 * Budget: 10000 units

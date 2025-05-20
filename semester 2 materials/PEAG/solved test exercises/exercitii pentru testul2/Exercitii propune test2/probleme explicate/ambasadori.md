@@ -1,4 +1,4 @@
-## Ambassador problem
+## Ambassador problem (problem 1)
 
 **1.** `Inputs`
 * DIM = dimension of the population

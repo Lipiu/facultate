@@ -1,4 +1,4 @@
-## Visiting islands problem
+## Visiting islands problem (problem 8)
 **Cerinta problema**\
 A university organizes a scientific expedition by sea to visit some virgin islands in X archipelago, starting
 from one port of the archipelago and returning to the same port. The ship cannot be supplied during

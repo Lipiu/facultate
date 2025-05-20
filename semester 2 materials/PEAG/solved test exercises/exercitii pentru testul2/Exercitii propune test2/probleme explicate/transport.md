@@ -1,4 +1,4 @@
-## Transportation problem
+## Transportation problem (problem 4)
 
 **1.** `Inputs`
 * Factories and capacities
